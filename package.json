@@ -13,7 +13,7 @@
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0"
   },
-  "homepage": "https://codingisfood.github.io/moviesdbapiproject",
+  "homepage": "https://covenantolodo.com",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
