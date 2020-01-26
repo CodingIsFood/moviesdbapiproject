@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.a9e33334.chunk.css",
-  "main.js": "/static/js/main.0bc0b519.chunk.js",
-  "main.js.map": "/static/js/main.0bc0b519.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.a8920ce9.chunk.js": "/static/js/2.a8920ce9.chunk.js",
-  "static/js/2.a8920ce9.chunk.js.map": "/static/js/2.a8920ce9.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.21dde62d5e3e4f9449aaf6c6bc1cb0b0.js": "/precache-manifest.21dde62d5e3e4f9449aaf6c6bc1cb0b0.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.a9e33334.chunk.css.map": "/static/css/main.a9e33334.chunk.css.map",
-  "static/media/wikimediaib.png": "/static/media/wikimediaib.a2364884.png"
+  "main.css": "/moviesdbapiproject/static/css/main.a9e33334.chunk.css",
+  "main.js": "/moviesdbapiproject/static/js/main.29606dfe.chunk.js",
+  "main.js.map": "/moviesdbapiproject/static/js/main.29606dfe.chunk.js.map",
+  "runtime~main.js": "/moviesdbapiproject/static/js/runtime~main.3b571631.js",
+  "runtime~main.js.map": "/moviesdbapiproject/static/js/runtime~main.3b571631.js.map",
+  "static/js/2.a8920ce9.chunk.js": "/moviesdbapiproject/static/js/2.a8920ce9.chunk.js",
+  "static/js/2.a8920ce9.chunk.js.map": "/moviesdbapiproject/static/js/2.a8920ce9.chunk.js.map",
+  "index.html": "/moviesdbapiproject/index.html",
+  "precache-manifest.a7c90ffc717b989796cac4ba719dc30d.js": "/moviesdbapiproject/precache-manifest.a7c90ffc717b989796cac4ba719dc30d.js",
+  "service-worker.js": "/moviesdbapiproject/service-worker.js",
+  "static/css/main.a9e33334.chunk.css.map": "/moviesdbapiproject/static/css/main.a9e33334.chunk.css.map",
+  "static/media/wikimediaib.png": "/moviesdbapiproject/static/media/wikimediaib.a2364884.png"
 }
